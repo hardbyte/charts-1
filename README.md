@@ -25,7 +25,7 @@ Package each chart from the release tag of an upstream repository:
 
 Update the index:
 
-    helm repo index docs --url https://data61-hardbyte.github.io/charts
+    helm repo index docs --url https://hardbyte.github.io/data61-charts
     
 The commit and push.
 
